@@ -22,13 +22,11 @@ Navigate to the project directory.
 
 Install dependencies with:
 
-bash
-Copy code
+
 npm install
 Start the development server:
 
-bash
-Copy code
+
 npm start
 Open your browser and visit http://localhost:3000 to see your progress.
 
