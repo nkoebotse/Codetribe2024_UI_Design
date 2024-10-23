@@ -1,14 +1,13 @@
+import { Navbar } from "./components/Navbar";
+import { Hero } from "./components/Hero";
 
-
-import Layout from "./Components/Layout"
 function App() {
-  
-
   return (
-      <>
-        <Layout/>
-      </>
-  )
+    <>
+      <Navbar />
+      <Hero />
+    </>
+  );
 }
 
-export default App
+export default App;
